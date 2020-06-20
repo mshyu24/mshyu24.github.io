@@ -9,8 +9,9 @@
   border-radius: 0;
 }
 
-body > aside > div > nav > ul > li:nth-child(1) > a {
+body > aside > div > nav > ul > li > a {
   text-transform: lowercase;
+  font-family: 'Playfair Display', serif;
 }
 
 p{
