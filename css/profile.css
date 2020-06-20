@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&family=Playfair+Display&display=swap')
+
 .img-headshot {
   border: none;
   height: auto;
@@ -9,4 +11,11 @@
 
 body > aside > div > nav > ul > li:nth-child(1) > a {
   text-transform: lowercase;
+}
+
+p{
+  font-family: 'Overpass', sans-serif;
+}
+h1, h2, h3, h4, h5{
+  font-family: 'Playfair Display', serif;
 }
