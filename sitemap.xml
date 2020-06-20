@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://maiyayu.me/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/tutoring/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/green-dip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/tags/</loc>
+  </url>
+  
+</urlset>

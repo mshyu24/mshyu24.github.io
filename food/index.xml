@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maiya Yu</title>
+    <link>http://maiyayu.me/food/</link>
+    <description>Recent content on Maiya Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://maiyayu.me/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Green Dip</title>
+      <link>http://maiyayu.me/food/green-dip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/food/green-dip/</guid>
+      <description>Green Dip Ingredients  Half a bunch fresh cilantro 1/3 cup mayonnaise 1/4 cup ranch dressing Half an avocado Couple turns freshly ground pepper 1 tbsp onion powder 1 tbsp garlic powder Juice of half a lime Olive oil  Instructions Wash and roughly tear cilantro into blender.</description>
+    </item>
+    
+  </channel>
+</rss>

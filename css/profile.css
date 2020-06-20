@@ -1,0 +1,12 @@
+.img-headshot {
+  border: none;
+  height: auto;
+}
+
+.img-circle {
+  border-radius: 0;
+}
+
+body > aside > div > nav > ul > li:nth-child(1) > a {
+  text-transform: lowercase;
+}
