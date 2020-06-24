@@ -21,15 +21,6 @@
     
     <item>
       <title></title>
-      <link>http://maiyayu.me/miscellanea/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maiyayu.me/miscellanea/</guid>
-      <description>Miscellanea Filler information.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://maiyayu.me/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,6 +35,24 @@
       
       <guid>http://maiyayu.me/tutoring/</guid>
       <description>Tutoring Math Lab The University of Michigan Math Lab is not open during summers, but you&amp;rsquo;ll be able to find the times I am in the Math Lab here shortly into Fall 2020!</description>
+    </item>
+    
+    <item>
+      <title>Coffee</title>
+      <link>http://maiyayu.me/miscellanea/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/miscellanea/coffee/</guid>
+      <description>Coffee I am a coffee aficionado and passionate amateur barista. Here are some of my (extremely biased and probably unnecessary) opinions about coffee.</description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>http://maiyayu.me/miscellanea/computer-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/miscellanea/computer-science/</guid>
+      <description>Computer Science My first introduction to computer science came as I was preparing to spend a summer doing computational research.</description>
     </item>
     
     <item>
@@ -65,12 +74,30 @@
     </item>
     
     <item>
+      <title>Mathematics</title>
+      <link>http://maiyayu.me/miscellanea/mathematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/miscellanea/mathematics/</guid>
+      <description>Mathematics Although I am a pure math major in the U(M) Math Department, I generally prefer to consider myself an amateur mathematician in the original sense of the word &amp;ndash; I do it for the love of the subject.</description>
+    </item>
+    
+    <item>
       <title>Oatmeal Coconut Chocolate Chip Cookies</title>
       <link>http://maiyayu.me/food/oatmeal-coconut-chocolate-chip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://maiyayu.me/food/oatmeal-coconut-chocolate-chip/</guid>
       <description>Oatmeal Coconut Chocolate Chip Cookies Ingredients  2 sticks softened butter (1 cup) 3/4 cup white sugar 3/4 cup brown sugar 2 eggs 2 tsp vanilla 1/4 tsp coconut flavoring 2 tsp baking powder 1 tsp baking soda 1 tsp salt 1 1/4 tsp cinnamon 2 cups flour 1 1/2 cups oats 1 cup shredded coconut (sweetened is okay) 1 1/2 cups chocolate chips  Instructions Preheat oven to 350F.</description>
+    </item>
+    
+    <item>
+      <title>Origami</title>
+      <link>http://maiyayu.me/miscellanea/origami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/miscellanea/origami/</guid>
+      <description>Origami As a seventh grader, I was gifted a Klutz book on origami and an origami-a-day calendar, which set off a fondness for folding paper.</description>
     </item>
     
     <item>

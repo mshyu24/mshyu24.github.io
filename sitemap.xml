@@ -18,7 +18,6 @@
   
   <url>
     <loc>http://maiyayu.me/miscellanea/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -36,6 +35,14 @@
   </url>
   
   <url>
+    <loc>http://maiyayu.me/miscellanea/coffee/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/computer-science/</loc>
+  </url>
+  
+  <url>
     <loc>http://maiyayu.me/food/green-dip/</loc>
   </url>
   
@@ -44,7 +51,15 @@
   </url>
   
   <url>
+    <loc>http://maiyayu.me/miscellanea/mathematics/</loc>
+  </url>
+  
+  <url>
     <loc>http://maiyayu.me/food/oatmeal-coconut-chocolate-chip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/origami/</loc>
   </url>
   
   <url>
