@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://maiyayu.me/about/</guid>
-      <description>Hi! I&amp;rsquo;m Maiya Yu. Curriculum Vitae (as of 12/15/2020) You can reach me at mshyu AT umich DOT edu, or at the links in the sidebar I am a current senior (class of 2021) at the University of Michigan College of Literature, Science, and the Arts, where I am majoring in biochemistry and pure mathematics, and minoring in computer science.</description>
+      <description>Hi! I&amp;rsquo;m Maiya Yu. Curriculum Vitae (as of 12/15/2020) You can reach me at mshyu AT umich DOT edu, or at the links in the sidebar I am a research assistant in the Tall lab in the Department of Pharmacology and an incoming Structural Biology PhD student at Stanford.</description>
     </item>
     
     <item>
@@ -43,7 +43,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://maiyayu.me/miscellanea/bioart/</guid>
-      <description>Bio-Art I have long enjoyed creating wire sculptures of proteins. I am currently a part of CellSpace, a Bio-Art workshop run by Dr.</description>
+      <description>Bio-Art I have long enjoyed creating wire sculptures of proteins.</description>
+    </item>
+    
+    <item>
+      <title>Chicken &amp; Peppers Stew</title>
+      <link>http://maiyayu.me/food/chicken-and-peppers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/food/chicken-and-peppers/</guid>
+      <description>Chicken &amp;amp; Peppers Stew This is a recipe kidnapped and adapted from Tara Parks, my college roommate&amp;rsquo;s mom.</description>
+    </item>
+    
+    <item>
+      <title>Chicken Broccoli Casserole</title>
+      <link>http://maiyayu.me/food/chicken-broccoli-casserole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/food/chicken-broccoli-casserole/</guid>
+      <description>Chicken Broccoli Casserole This is a modified version of my mom&amp;rsquo;s recipe, and one of my favorite comfort foods.</description>
     </item>
     
     <item>
@@ -180,6 +198,15 @@ Ingredients  2 medium zucchini, thinly sliced 2 medium yellow squash, thinly sli
       
       <guid>http://maiyayu.me/food/tuscan-bean-toast/</guid>
       <description>Tuscan Bean Toast Modified and cross-compiled from an assortment of sources.</description>
+    </item>
+    
+    <item>
+      <title>Watercolor</title>
+      <link>http://maiyayu.me/miscellanea/watercolor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maiyayu.me/miscellanea/watercolor/</guid>
+      <description>Watercolor To fulfill my creative expressions credits, I took a watercolor course in W2021.</description>
     </item>
     
   </channel>
